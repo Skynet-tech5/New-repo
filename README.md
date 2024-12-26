@@ -1,2 +1,2 @@
-# New-repo
+# class-repo
 hyhyy
